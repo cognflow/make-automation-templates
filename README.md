@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Make Automation Templates
 
 A collection of production-ready Make (formerly Integromat) automation scenarios built by Cognflow.
@@ -17,3 +18,6 @@ A collection of production-ready Make (formerly Integromat) automation scenarios
 ## Author
 Igwe Ogaji Samuel
 [LinkedIn](https://linkedin.com/in/igwe-ogaji) | [GitHub](https://github.com/samklin92)
+=======
+# make-automation-templates
+>>>>>>> a987d94e7efc5812e14bbbadccbcb62b051f4222
