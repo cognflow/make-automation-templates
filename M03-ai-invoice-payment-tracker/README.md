@@ -1,4 +1,5 @@
 \# M03 — AI Invoice \& Payment Tracker
+<img width="1267" height="611" alt="image" src="https://github.com/user-attachments/assets/12a35bac-66bf-4cae-b431-3497f0c2a703" />
 
 
 
