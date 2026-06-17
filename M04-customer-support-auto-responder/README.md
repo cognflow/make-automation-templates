@@ -2,6 +2,7 @@
 
 ## Overview
 Automatically classifies and responds to customer support requests submitted via a Tally form. Uses Claude AI to categorise tickets, draft personalised replies, and route based on confidence score. Low-confidence tickets are escalated to a human via email.
+<img width="1271" height="627" alt="image" src="https://github.com/user-attachments/assets/185bb624-f99d-4253-8a2c-bd5de397ec6f" />
 
 ## Flow
 ```
